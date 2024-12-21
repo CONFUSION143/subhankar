@@ -1,0 +1,16 @@
+body{
+ background: linear-gradient(to bottom, #33ccff 0%, #ff9933 100%);
+  background-repeat: no-repeat;
+   background-size: cover; 
+   background-image: url("BingWallpaper.jpg");
+
+} 
+/* h1{
+   background-color: black;
+ color: purple;
+ 
+
+} */
+h2{
+  text-shadow: 4px 3px #ff0000;
+}
