@@ -1,2 +1,3 @@
 # subhankar
-this is my repo on my persional portfolio design using HTML and CSS 
+this is my repo on my personal portfolio design using HTML and CSS 
+-
